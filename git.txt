@@ -1,0 +1,11 @@
+1. Junio C Hamano
+
+2. 12 partial matches
+
+3. 3 blobs, 4 trees, and 5 commits
+
+4. This commit updates the German translate for Git version 2.31.0
+
+5. It looks like the first file changed was the RelNotes
+
+6. The branches are master, todo, HEAD, jch, maint, next, and seen
