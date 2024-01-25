@@ -16,7 +16,7 @@ Mary Katherine: mkmcgranahan@vtedu
 
 What I did:
 
-# E: 
+** E: ** 
 Finished up through the coding section
 
 # MK: 
