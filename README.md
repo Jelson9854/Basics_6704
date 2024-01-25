@@ -14,37 +14,37 @@ Emily Atland: emilya99@vtedu
 Mary Katherine: mkmcgranahan@vtedu
 
 
-What I did:
+### What I did:
 
 **E:** 
 Finished up through the coding section
 
-# MK: 
+**MK:**
 Made it halfway through the coding section
 
-# J: 
+**J:** 
 Finished all of the required sections (Except the scrum meeting)
 
 
-What I need to do next:
+### What I need to do next:
 
-# E:
+**E:**
 Finish the project managment page
 
-# MK: 
+**MK:**
 Finish the coding and do the Project Management section
 
-# J: 
+**J:** 
 Finish up the SCRUM meeting and submit
 
 
-What is blocking me:
+### What is blocking me:
 
-# E:
+**E:**
 Unclear what was needed to finish
 
-# MK: 
+**MK:** 
 Needed to update computer and fix the bash shell
 
-# J:
+**J:**
 Had to wait to do the SCRUM meeting in class
