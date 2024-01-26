@@ -9,7 +9,7 @@ Hello Github!
 
 ### Teammates:
 
-Emily Atland: emilya99@vtedu
+Emily Altland: emilya99@vtedu
 
 Mary Katherine: mkmcgranahan@vtedu
 
